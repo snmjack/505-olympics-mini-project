@@ -36,5 +36,5 @@ medals for 1 point. The function should return only the column (a Series object)
 
 ### Question - 6 
 Write a function to perform k-means clustering.
-* Create a fucntion knn
+* Create a fucntion k_means
 * return cluster centers
